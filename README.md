@@ -9,6 +9,7 @@
 ->Tech Stack:
 
 Language: Python
+
 Libraries: Pandas, NumPy, Seaborn, Matplotlib, Plotly Express
 
 ->Objective:
@@ -18,6 +19,7 @@ To analyze restaurant data to uncover insights on popularity, service gaps, and 
 ->Key Performance Indicators (KPIs):
 
 1. Popularity
+   
 •	Restaurants:
 
   Average Rating (out of 5)
