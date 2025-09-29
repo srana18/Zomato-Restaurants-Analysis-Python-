@@ -125,14 +125,18 @@ Plotly Express → Interactive plots like histogram, pie charts, bar plots
    Indicates that location plays a key role in restaurant presence and potential visibility, but high performance depends on     other factors like cuisine, type, and service.
 
 5. Service Gaps Identified
+   
    Top 1%: ~50% offer Online Ordering, ~60% offer Table Booking
+   
    Overall: ~52.5% Online Ordering, only ~10.5% Table Booking
 
    IMPACT:
    Big opportunity in Table Booking services for customer convenience.
 
 6. Cost Trends
+   
    Split restaurants into Affordable (<₹2000) & Luxury (≥₹2000).
+   
    Top 1% mostly in the affordable range.
    
    IMPACT:
