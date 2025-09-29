@@ -4,6 +4,7 @@
 ->Dataset:
 
 •	Source (Kaggle): Zomato Restaurants Dataset(link: https://www.kaggle.com/datasets/abhijitdahatonde/zomato-restaurants-dataset/data)
+
 •	Records Analyzed: 7,105 restaurants
 
 ->Tech Stack:
@@ -27,6 +28,7 @@ To analyze restaurant data to uncover insights on popularity, service gaps, and 
   Number of Ratings
   
   Popularity Score (custom KPI combining rating & number of ratings)
+  
 
 •	Cuisines:
 
@@ -34,11 +36,13 @@ To analyze restaurant data to uncover insights on popularity, service gaps, and 
   
   Count of cuisines in the overall dataset
   
+  
 •	Restaurant Types:
 
   Count of types among top 1% restaurants
   
   Count of types in the overall dataset
+  
   
 •	Areas:
 
@@ -46,17 +50,20 @@ To analyze restaurant data to uncover insights on popularity, service gaps, and 
   
   Count of occurrences in the overall dataset
   
+  
 2. Service Gaps
    
   % of restaurants offering Online Ordering
 
   % of restaurants offering Table Booking
+  
 
 3. Cost Trends
    
   Average cost of Luxury Restaurants
   
   Average cost of Affordable Restaurants
+  
 
 ->Approach:
 
@@ -75,6 +82,7 @@ To analyze restaurant data to uncover insights on popularity, service gaps, and 
       Histograms & boxplots for distributions/outliers
 
       Identified top restaurants, cuisines, types, and areas
+      
 
       Bivariate Analysis:
       
@@ -84,11 +92,13 @@ To analyze restaurant data to uncover insights on popularity, service gaps, and 
 
       Popularity vs cost (scatter plots)
       
+      
 ->Visualization Tools Used:
 
 Seaborn → Histograms, boxplots
 
 Plotly Express → Interactive plots like histogram, pie charts, bar plots
+
 
 ->Result/Impact:
 
